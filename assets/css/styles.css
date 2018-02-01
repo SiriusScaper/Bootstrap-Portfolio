@@ -27,7 +27,9 @@ body {
   height: 100%;
 }
 
-
+body > .container {
+  padding-top: 60px;
+}
 /* Navbar Styling */
 
 .navbar {
